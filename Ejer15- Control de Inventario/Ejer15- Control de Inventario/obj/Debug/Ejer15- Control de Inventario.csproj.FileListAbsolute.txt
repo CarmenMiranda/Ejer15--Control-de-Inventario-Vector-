@@ -1,0 +1,19 @@
+E:\Estructura de datos\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.exe.config
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.exe.config
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.pdb
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15__Control_de_Inventario.frmInventario.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15__Control_de_Inventario.Properties.Resources.resources
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.exe
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.pdb
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.exe.config
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.exe
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.pdb
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.exe
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\bin\Debug\Ejer15- Control de Inventario.pdb
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15__Control_de_Inventario.frmInventario.resources
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15__Control_de_Inventario.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer15- Control de Inventario\Ejer15- Control de Inventario\obj\Debug\Ejer15- Control de Inventario.csproj.GenerateResource.Cache
